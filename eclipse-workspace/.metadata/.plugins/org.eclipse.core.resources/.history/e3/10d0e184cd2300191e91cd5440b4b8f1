@@ -1,0 +1,8 @@
+
+
+public class Shopper {
+	String name;
+	double balance;
+	
+
+}
